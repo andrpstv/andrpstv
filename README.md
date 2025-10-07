@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Andrey</h1>
+<img src="https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp" alt="fun gif" width="500"/>
+
+<img width="500" height="282" alt="image" src="https://github.com/user-attachments/assets/bea0c69a-ac60-43cc-88ee-70c22f84d555" /><h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">Golang Developer — building ultra high-load systems, clean architecture & async magic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrpstv&label=Profile%20views&color=0e75b6&style=flat" alt="andrpstv" /> </p>
