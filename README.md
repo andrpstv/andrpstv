@@ -1,4 +1,6 @@
-<img src="https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp" alt="fun gif" width="500"/>
+<p align="center">
+  <img src="https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp" alt="fun gif" width="500"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">Golang Developer — building ultra high-load systems, clean architecture & async magic</h3>
